@@ -1,4 +1,4 @@
-# Правило "Mimikatz_Memssp_Default_Log_Detected"
+# Правило Mimikatz_Memssp_Default_Log_Detected
 
 ## mimilsa.log и его связь с Mimikatz
 

@@ -1,4 +1,4 @@
-# Правило "Phishing_windows_credentials_powershell_scriptblock"
+# Правило Phishing_windows_credentials_powershell_scriptblock
 
 Атака "Phishing_windows_credentials_powershell_scriptblock" направлена на фишинг пользовательских аутентификационных данных с использованием скриптов PowerShell, которые создают поддельные приглашения для входа в систему и заставляют пользователей вводить свои учетные данные.
 
