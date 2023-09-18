@@ -33,5 +33,12 @@
 - [Detect_hiding_files_via_attrib_cmdlet](/mitre_attck_defense_evasion/Detect_hiding_files_via_attrib_cmdlet.md)
 - [Detect_lolbin_pcalua_exec](/mitre_attck_defense_evasion/Detect_lolbin_pcalua_exec.md)
 - [ImageLoad_from_Network_Share_to_LSASS](/mitre_attck_defense_evasion/ImageLoad_from_Network_Share_to_LSASS.md)
+- [Правило ParentPid_Spoofing](/mitre_attck_defense_evasion/ParentPid_Spoofing.md)
+- [Правило Portproxy_netsh](/mitre_attck_defense_evasion/Portproxy_netsh.md)
+- [Правило RDP_settings_tampering](/mitre_attck_defense_evasion/RDP_settings_tampering.md)
+- [Правило ReverseShell_created_via_PEInjection](/mitre_attck_defense_evasion/ReverseShell_created_via_PEInjection.md)
+- [Правило Subrule_ParentPid_Spoofing](/mitre_attck_defense_evasion/Subrule_ParentPid_Spoofing.md)
+- [Правило Suspend_prpcess](/mitre_attck_defense_evasion/Suspend_Process.md)
+- [Правило Suspicious_Explorer_Injection](/mitre_attck_defense_evasion/Suspicious_Explorer_Injection.md)
 - [Атака 3](атака3.md)
 
