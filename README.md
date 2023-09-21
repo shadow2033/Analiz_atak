@@ -40,5 +40,20 @@
 - [Правило Subrule_ParentPid_Spoofing](/mitre_attck_defense_evasion/Subrule_ParentPid_Spoofing.md)
 - [Правило Suspend_prpcess](/mitre_attck_defense_evasion/Suspend_Process.md)
 - [Правило Suspicious_Explorer_Injection](/mitre_attck_defense_evasion/Suspicious_Explorer_Injection.md)
-- [Атака 3](атака3.md)
 
+## mitre_attck_discovery
+- [Правило Bloodhound](/mitre_attck_discovery/Bloodhound.md)
+- [Правило Enumeration_Users_In_Groups](/mitre_attck_discovery/Enumeration_Users_In_Groups.md)
+- [Правило Local_Groups_Enumeration_Discovery](/mitre_attck_discovery/Local_Groups_Enumeration_Discovery.md)
+
+## mitre_attck_execution
+- [Правило Detect_execution_imageload_wuauclt_lolbas](/mitre_attck_execution/Detect_execution_imageload_wuauclt_lolbas.md)
+- [Правило Schtasks_Commandline](/mitre_attck_execution/Schtasks_Commandline.md)
+- [Правило Start_process_as_vshadow_child](/mitre_attck_execution/Start_process_as_vshadow_child.md)
+- [Правило VSSVC_service_state_changed](/mitre_attck_execution/VSSVC_service_state_changed.md)
+- [Правило XP_Cmdshell_Usage](/mitre_attck_execution/XP_Cmdshell_Usage.md)
+
+## mitre_attck_initial_access
+- [Правило ProxyNotShell](/mitre_attck_initial_access/ProxyNotShell.md)
+
+- [Атака 3](атака3.md)
