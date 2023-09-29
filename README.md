@@ -56,4 +56,17 @@
 ## mitre_attck_initial_access
 - [Правило ProxyNotShell](/mitre_attck_initial_access/ProxyNotShell.md)
 
+## mitre_attck_lat_move
+- [Правило Detect_MSHTA_LethalHTA](/mitre_attck_lat_move/Detect_MSHTA_LethalHTA.md)
+- [Правило Impacket_WMIExec_Command_Executed](/mitre_attck_lat_move/Impacket_WMIExec_Command_Executed.md)
+
+## mitre_attck_persist
+- [Правило Change_wmi_subscription](/mitre_attck_persist/Change_wmi_subscription.md)
+- [Правило Create_hidden_local_account](/mitre_attck_persist/Create_hidden_local_account.md)
+- [Правило Create_persist_via_Hidden_Run_key_value](/mitre_attck_persist/Create_persist_via_Hidden_Run_key_value.md)
+- [Правило Create_persist_via_WinlogonShell](/mitre_attck_persist/Create_persist_via_WinlogonShell.md)
+- [Правило DCSync_prepare_Add_replicatation_rights_to_Account](/mitre_attck_persist/DCSync_prepare_Add_replicatation_rights_to_Account.md)
+- [Правило DSRM_Password_Changed](/mitre_attck_persist/DSRM_Password_Changed.md)
+- [Правило Use_persist_Start_process_via_WinlogonShell](/mitre_attck_persist/Use_persist_Start_process_via_WinlogonShell.md)
+- [Правило XP_Cmdshell_Enable](/mitre_attck_persist/XP_Cmdshell_Enable.md)
 - [Атака 3](атака3.md)
