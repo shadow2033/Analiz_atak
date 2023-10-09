@@ -69,4 +69,14 @@
 - [Правило DSRM_Password_Changed](/mitre_attck_persist/DSRM_Password_Changed.md)
 - [Правило Use_persist_Start_process_via_WinlogonShell](/mitre_attck_persist/Use_persist_Start_process_via_WinlogonShell.md)
 - [Правило XP_Cmdshell_Enable](/mitre_attck_persist/XP_Cmdshell_Enable.md)
-- [Атака 3](атака3.md)
+
+## mitre_attck_priv_esc
+- [Правило CreateProcessAsUser_Impersonation](/mitre_attck_priv_esc/CreateProcessAsUser_Impersonation.md)
+- [Правило Detect_Pass_the_Hash_via_Mimikatz_local](/mitre_attck_priv_esc/Detect_Pass_the_Hash_via_Mimikatz_local.md)
+- [Правило Named_Pipe_Impersonation_PrivEsc](/mitre_attck_priv_esc/Named_Pipe_Impersonation_PrivEsc.md)
+- [Правило Potential_Privileged_Escalation_via_KrbRelayUp](/mitre_attck_priv_esc/Potential_Privileged_Escalation_via_KrbRelayUp.md)
+- [Правило SeDebugPrivilege_Enabled](/mitre_attck_priv_esc/SeDebugPrivilege_Enabled.md)
+- [Правило UACME_23_DismCore_Hijacking](/mitre_attck_priv_esc/UACME_23_DismCore_Hijacking.md)
+- [Правило UAC_Bypass_Via_Consent](/mitre_attck_priv_esc/UAC_Bypass_Via_Consent.md)
+- [Правило Unquoted_Service_Path_Abuse](/mitre_attck_priv_esc/Unquoted_Service_Path_Abuse.md)
+- [Правило sAMAccountName_Spoofing](/mitre_attck_priv_esc/sAMAccountName_Spoofing.md)
