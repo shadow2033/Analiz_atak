@@ -1,4 +1,3 @@
-# Изучение механизма нападения в соответствии с правилами open-xp-rules.
 
 ## mitre_attck_comm_and_ctrl
 
